@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/791e432a-d52e-4553-ba25-edc4ddeccdb5)# Telecom Churn-case-study
+# Telecom Churn-case-study
 
 ## Objective
 
